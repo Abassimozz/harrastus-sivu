@@ -1,0 +1,28 @@
+body {
+    background-color:moccasin;
+}
+
+h1 {
+    color:brown;
+    font-size: 40px;
+}
+
+h2 {
+    color:brown;
+    font-size: 25px;
+}
+
+p {
+    color:darkslategray;
+    font-size: 15px;
+}
+
+li {
+    color:darkslategray;
+    font-size: 15px;
+}
+
+a {
+    color:green;
+    font-size: 15px;
+}
